@@ -7,7 +7,7 @@ npm i --save phonecode
 ```
 
 ## Usage 
-Get phone code a country :
+Get phone code of a country :
 ```JS
 var phonecode = require('phonecode');
 
@@ -30,5 +30,5 @@ Description : returns phone code of a country.
 Returns : `number`  
 
 **isCodeOf** (parameter : `number`)  
-Description : return name of a country which has the phone code.  
+Description : returns name of a country which has the phone code.  
 Returns `string`  
