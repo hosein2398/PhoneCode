@@ -1,4 +1,4 @@
-# PhoneCode 
+# PhoneCode  [![Build Status](https://travis-ci.org/hosein2398/PhoneCode.svg?branch=master)](https://travis-ci.org/hosein2398/PhoneCode)
 Get countries' phone code or do reverse.
 
 ## Installation
@@ -31,4 +31,4 @@ Returns : `number`
 
 **isCodeOf** (parameter : `number`)  
 Description : returns name of a country which has the phone code.  
-Returns `string`  
+Returns : `string`  
